@@ -1,0 +1,190 @@
+{
+  "students1": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "scores": "A+",
+      "percentage": "95%"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "scores": "A",
+      "percentage": "90%"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "scores": "A-",
+      "percentage": "85%"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "scores": "B+",
+      "percentage": "80%"
+    },
+    {
+      "id": 5,
+      "name": "David Miller",
+      "scores": "B",
+      "percentage": "75%"
+    },
+    {
+      "id": 6,
+      "name": "Emily Wilson",
+      "scores": "B-",
+      "percentage": "70%"
+    },
+    {
+      "id": 7,
+      "name": "Michael Davis",
+      "scores": "C+",
+      "percentage": "65%"
+    },
+    {
+      "id": 8,
+      "name": "Sara Jones",
+      "scores": "C",
+      "percentage": "60%"
+    },
+    {
+      "id": 9,
+      "name": "Ryan Taylor",
+      "scores": "C-",
+      "percentage": "55%"
+    },
+    {
+      "id": 10,
+      "name": "Olivia White",
+      "scores": "D",
+      "percentage": "50%"
+    }
+  ],
+  "students2": [
+    {
+      "id": 1,
+      "name": "Alex Turner",
+      "scores": "A+",
+      "percentage": "95%"
+    },
+    {
+      "id": 2,
+      "name": "Sophie Anderson",
+      "scores": "A",
+      "percentage": "90%"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Harris",
+      "scores": "A-",
+      "percentage": "85%"
+    },
+    {
+      "id": 4,
+      "name": "Ella Martinez",
+      "scores": "B+",
+      "percentage": "80%"
+    },
+    {
+      "id": 5,
+      "name": "Jake Turner",
+      "scores": "B",
+      "percentage": "75%"
+    },
+    {
+      "id": 6,
+      "name": "Emma Turner",
+      "scores": "B-",
+      "percentage": "70%"
+    },
+    {
+      "id": 7,
+      "name": "Luke Johnson",
+      "scores": "C+",
+      "percentage": "65%"
+    },
+    {
+      "id": 8,
+      "name": "Maya Brown",
+      "scores": "C",
+      "percentage": "60%"
+    },
+    {
+      "id": 9,
+      "name": "Leo Davis",
+      "scores": "C-",
+      "percentage": "55%"
+    },
+    {
+      "id": 10,
+      "name": "Ava Smith",
+      "scores": "D",
+      "percentage": "50%"
+    }
+  ],
+  "students3": [
+    {
+      "id": 1,
+      "name": "Ryan Johnson",
+      "scores": "A+",
+      "percentage": "95%"
+    },
+    {
+      "id": 2,
+      "name": "Sophia Davis",
+      "scores": "A",
+      "percentage": "90%"
+    },
+    {
+      "id": 3,
+      "name": "Owen Smith",
+      "scores": "A-",
+      "percentage": "85"
+    },
+    {
+      "id": 4,
+      "name": "Isabella Wilson",
+      "scores": "B+",
+      "percentage": "80%"
+    },
+    {
+      "id": 5,
+      "name": "Carter Brown",
+      "scores": "B",
+      "percentage": "75%"
+    },
+    {
+      "id": 6,
+      "name": "Zoe Turner",
+      "scores": "B-",
+      "percentage": "70%"
+    },
+    {
+      "id": 7,
+      "name": "Ethan Martinez",
+      "scores": "C+",
+      "percentage": "65%"
+    },
+    {
+      "id": 8,
+      "name": "Mia Anderson",
+      "scores": "C",
+      "percentage": "60%"
+    },
+    {
+      "id": 9,
+      "name": "Aiden Harris",
+      "scores": "C-",
+      "percentage": "55%"
+    },
+    {
+      "id": 10,
+      "name": "Lily Turner",
+      "scores": "D",
+      "percentage": "50%"
+    }
+  ]
+}
+
+
